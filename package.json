@@ -1,7 +1,7 @@
 {
-  "name": "render2",
-  "version": "1.1.0",
-  "author": "kotx",
+  "name": "toshiki-r2-index",
+  "version": "1.0.0",
+  "author": "Anda Toshiki <hello@toshiki.dev>",
   "description": "A Cloudflare worker for proxying readonly requests to Cloudflare R2",
   "license": "MIT",
   "main": "dist/index.js",
